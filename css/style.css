@@ -1,0 +1,35 @@
+body {
+  background-image: linear-gradient(#191970,#8F00FF,#00FFFF);
+  font-family: DangerMode, Calibri, sans-serif, Arial;
+}
+*{margin: 0px}
+h1 {
+  font-family: Candara, Calibri, MS Comic Sans, Arial;
+  text-align: center;
+border: 3px solid #ff66cc;
+  margin: 35px
+
+}
+#content{
+  Width: 500px;
+  text-align: justify;
+  margin: auto;
+  color: #FFA500
+}
+
+.segment{
+  border-color: #000000;
+  border-style: solid; */
+  padding: 5px 10px;
+  border: 3px solid #ff66cc
+}
+
+.segment img{
+  width: 100px;
+  float: left;
+margin: 10px 10px 0px 0px
+}
+.segment .centerimg{
+  float: none;
+  margin: auto;
+}

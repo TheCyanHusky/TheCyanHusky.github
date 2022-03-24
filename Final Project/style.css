@@ -1,0 +1,63 @@
+html{
+    background-image: linear-gradient(#83EEFF,#00FFFF,#072A6C,#17076C,#4C2882,#17076C,#072A6C,#00FFFF,#83EEFF);
+}
+
+.Paragraph{
+  font-family: Helvetica;
+  font-size: 100px;
+  text-align: center;
+  border: 24px;
+  color: #FF10F0;
+}
+.Main{
+  color: #FF10F0;
+margin: 100px;
+  text-align: center;
+  font-size: 24px;
+  font-family: Helvetica
+  color: #FF10F0;
+}
+.Piano{
+  justify-content: space-around;
+}
+.preview{
+font-size: 40px;
+align-self: auto;
+  margin: 5px;
+  padding: 5px
+}
+#H1{
+  margin: 10px
+  color: #FF10F0;
+}
+#Game{
+  font-family: Helvetica;
+  font-size: 24px;
+  text-align: center;
+  color: #FF10F0;
+}
+#yellow{
+  color: #FFFF00;
+}
+.menuItem {
+border: 2px solid #000000;
+background-color: #00FFFF;
+color: #FF10F0;
+border-radius: 2px;
+margin: 5px;
+padding: 5px;
+font-size: 50px;
+font-weight: bold;
+transition-property: background-color;
+
+}
+#menu{
+  width: 550px;
+  text-align: center;
+}
+a {
+color: #FF10F0;
+text-decoration: none;
+cursor: pointer;
+
+}
